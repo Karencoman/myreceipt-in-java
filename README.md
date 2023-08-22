@@ -1,1 +1,1 @@
-# myreceipt-in-java
+my first java receipt.
